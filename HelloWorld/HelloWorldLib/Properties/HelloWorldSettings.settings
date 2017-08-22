@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HelloWorldLib.Properties" GeneratedClassName="HelloWorldSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultOutputTarget" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Console</Value>
+    </Setting>
+    <Setting Name="TargetPlatform" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ConsoleApp</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
