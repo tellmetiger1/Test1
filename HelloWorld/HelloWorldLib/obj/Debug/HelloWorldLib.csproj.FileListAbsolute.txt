@@ -1,0 +1,5 @@
+F:\Test\HelloWorld\HelloWorldLib\bin\Debug\HelloWorldLib.dll.config
+F:\Test\HelloWorld\HelloWorldLib\bin\Debug\HelloWorldLib.dll
+F:\Test\HelloWorld\HelloWorldLib\bin\Debug\HelloWorldLib.pdb
+F:\Test\HelloWorld\HelloWorldLib\obj\Debug\HelloWorldLib.dll
+F:\Test\HelloWorld\HelloWorldLib\obj\Debug\HelloWorldLib.pdb

@@ -1,0 +1,12 @@
+F:\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\HelloWorldLib.Test.dll
+F:\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\HelloWorldLib.Test.pdb
+F:\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\HelloWorldLib.dll
+F:\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\NSubstitute.dll
+F:\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\nunit.framework.dll
+F:\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\HelloWorldLib.pdb
+F:\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\HelloWorldLib.dll.config
+F:\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\NSubstitute.xml
+F:\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\nunit.framework.xml
+F:\Test\HelloWorld\HelloWorldLib.Test\obj\Debug\HelloWorldLib.Test.csprojResolveAssemblyReference.cache
+F:\Test\HelloWorld\HelloWorldLib.Test\obj\Debug\HelloWorldLib.Test.dll
+F:\Test\HelloWorld\HelloWorldLib.Test\obj\Debug\HelloWorldLib.Test.pdb
