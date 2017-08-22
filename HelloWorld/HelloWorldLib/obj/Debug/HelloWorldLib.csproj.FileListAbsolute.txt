@@ -3,3 +3,9 @@ F:\Test\HelloWorld\HelloWorldLib\bin\Debug\HelloWorldLib.dll
 F:\Test\HelloWorld\HelloWorldLib\bin\Debug\HelloWorldLib.pdb
 F:\Test\HelloWorld\HelloWorldLib\obj\Debug\HelloWorldLib.dll
 F:\Test\HelloWorld\HelloWorldLib\obj\Debug\HelloWorldLib.pdb
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib\bin\Debug\HelloWorldLib.dll.config
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib\bin\Debug\HelloWorldLib.dll
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib\bin\Debug\HelloWorldLib.pdb
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib\obj\Debug\HelloWorldLib.csprojResolveAssemblyReference.cache
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib\obj\Debug\HelloWorldLib.dll
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib\obj\Debug\HelloWorldLib.pdb

@@ -10,3 +10,15 @@ F:\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\nunit.framework.xml
 F:\Test\HelloWorld\HelloWorldLib.Test\obj\Debug\HelloWorldLib.Test.csprojResolveAssemblyReference.cache
 F:\Test\HelloWorld\HelloWorldLib.Test\obj\Debug\HelloWorldLib.Test.dll
 F:\Test\HelloWorld\HelloWorldLib.Test\obj\Debug\HelloWorldLib.Test.pdb
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\HelloWorldLib.Test.dll
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\HelloWorldLib.Test.pdb
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\HelloWorldLib.dll
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\NSubstitute.dll
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\nunit.framework.dll
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\HelloWorldLib.pdb
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\HelloWorldLib.dll.config
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\NSubstitute.xml
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib.Test\bin\Debug\nunit.framework.xml
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib.Test\obj\Debug\HelloWorldLib.Test.csprojResolveAssemblyReference.cache
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib.Test\obj\Debug\HelloWorldLib.Test.dll
+D:\Users\tellmetiger\Documents\GitHub\Test\HelloWorld\HelloWorldLib.Test\obj\Debug\HelloWorldLib.Test.pdb
